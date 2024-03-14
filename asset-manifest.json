@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eznMovies1/static/css/main.75a0d97a.css",
+    "main.js": "/eznMovies1/static/js/main.88b2f508.js",
+    "index.html": "/eznMovies1/index.html",
+    "main.75a0d97a.css.map": "/eznMovies1/static/css/main.75a0d97a.css.map",
+    "main.88b2f508.js.map": "/eznMovies1/static/js/main.88b2f508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a0d97a.css",
+    "static/js/main.88b2f508.js"
+  ]
+}
